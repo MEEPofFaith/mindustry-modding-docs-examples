@@ -1,0 +1,12 @@
+name: mod-docs
+displayName: "Modding Docs Example Codes"
+author:
+  '''
+    MEEP of Faith
+  '''
+description:
+  '''
+    Displays the modding docs code examples.
+  '''
+version: 0
+minGameVersion: 123
